@@ -1,0 +1,79 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.nav-title{
+    font-weight: 700;
+font-size: 65px;
+text-align: right;
+color: #151414;
+position: absolute;
+font-style: normal;
+line-height: 76px;
+max-width: 525px;
+max-height: 228px;
+margin-left: 845px;
+margin-top: 216px;
+}
+.nav-p{
+    font-weight: 400;
+font-size: 16px;
+text-align: right;
+color: #444343;
+font-style: normal;
+position: absolute;
+max-width: 494px;
+max-height: 78px;
+margin-left: 876px;
+margin-top: 468px;
+}
+.button-pri{
+    background: #F15B22;
+border-radius: 5px;
+border: none;
+padding: 20PX 25PX;
+position: absolute;
+max-width: 160px;
+max-height: 64px;
+margin-left: 1210px;
+margin-top: 578px;
+color: #FFFFFF;
+font-weight: 600;
+font-size: 20px;
+}
+main{
+    position: absolute;
+    max-width: 416px;
+    max-height: 400px;
+}
+.about{
+    position: absolute;
+    width: 427px;
+    height: 400px;
+    margin-left: 862px;
+    margin-top: 400px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.section-des{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.section-list{
+    position: absolute;
+    gap: 10px;
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+}
+.images{  
+position: absolute; 
+margin-left:269px;
+margin-top:200px;
+max-width: 451px;
+max-height: 898;
+
+}
