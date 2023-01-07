@@ -74,6 +74,100 @@ position: absolute;
 margin-left:269px;
 margin-top:200px;
 max-width: 451px;
-max-height: 898;
-
+max-height: 898px;
+}
+.plans{
+position: absolute;
+width: 1141px;
+height: 299.96px;
+padding: 18px;
+margin-top: 1093px;
+margin-left: 319px;
+}
+.plans-title{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    margin-left: 700px;
+    margin-top: 1030px;
+    font-weight: 700;
+font-size: 40px;
+color: #151414;
+}
+.skills-con{
+display: flex;
+gap: 24px;
+}
+.skill-title{
+font-weight: 700;
+font-size: 30px;
+color: #151414;
+text-align: center;
+padding: 10px;
+}
+.skill-des{
+font-weight:500px;
+font-size: 25px;
+color: #737272;
+padding: 10px;
+}
+.banner{
+max-width:1400px;
+max-height:400px;
+margin-left:230px;
+margin-top:1500px;
+position: absolute;
+}
+.banner-text{
+position: absolute;
+width: 459px;
+height: 94px;
+margin-left:160px;
+margin-top:100px;
+font-weight:700px;
+font-size: 40px;
+color: #FFFFFF;
+}
+.button-primary{
+    background: #FFFFFF;
+border-radius: 5px;
+position: absolute;
+width: 160px;
+height: 64px;
+margin-left:229px;
+margin-top: 219px;
+border: none;
+color: #F15B22;
+font-weight: 600;
+font-size: 20px;
+}
+.footer{
+ width: 1699px;
+height: 577px;
+margin-top: 1900px;
+background: #151414;
+padding: 16px;
+position: absolute;
+}
+.footer-head{
+font-weight: 700;
+font-size: 45px;
+color:#F8F8F8;
+width: 148px;
+height: 53px;
+}
+.footer-pera{
+font-weight: 400px;
+font-size: 16px;
+color: #FFFFFF;
+width: 485px;
+height: 78px;
+}
+.footer-e{
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.footer-p{
+ color: #FFFFFF;   
 }
